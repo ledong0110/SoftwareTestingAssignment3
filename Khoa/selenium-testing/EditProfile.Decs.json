@@ -1,0 +1,52 @@
+[
+    {
+        "firstname": "",
+        "lastname": "",
+        "email": ""
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "email": "hello@gmail.com"
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "email": "imvalidmail"
+    },
+    {
+        "firstname": "",
+        "lastname": "jonhson",
+        "email": ""
+    },
+    {
+        "firstname": "",
+        "lastname": "jonhson",
+        "email": "hello@gmail.com"
+    },
+    {
+        "firstname": "",
+        "lastname": "jonhson",
+        "email": "imvalidmail"
+    },
+    {
+        "firstname": "buddy",
+        "lastname": "",
+        "email": ""
+    },
+    {
+        "firstname": "buddy",
+        "lastname": "",
+        "email": "hello@gmail.com"
+    },
+    {
+        "firstname": "buddy",
+        "lastname": "",
+        "email": "imvalidmail"
+    },
+    {
+        "firstname": "buddy",
+        "lastname": "jonhson",
+        "email": "hello@gmail.com"
+    }
+]

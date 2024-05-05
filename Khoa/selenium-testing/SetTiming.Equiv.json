@@ -1,0 +1,90 @@
+[
+    {
+        "day": "8",
+        "month": "March",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Tuesday, 8 March 1904, 11:11 AM"
+    },
+    {
+        "day": "29",
+        "month": "March",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Tuesday, 29 March 1904, 11:11 AM"
+    },
+    {
+        "day": "29",
+        "month": "September",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Thursday, 29 September 1904, 11:11 AM"
+    },
+    {
+        "day": "29",
+        "month": "February",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Monday, 29 February 1904, 11:11 AM"
+    },
+    {
+        "day": "29",
+        "month": "February",
+        "year": "1913",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Invalid Date"
+    },
+    {
+        "day": "30",
+        "month": "March",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Wednesday, 30 March 1904, 11:11 AM"
+    },
+    {
+        "day": "30",
+        "month": "September",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Friday, 30 September 1904, 11:11 AM"
+    },
+    {
+        "day": "30",
+        "month": "February",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Invalid Date"
+    },
+    {
+        "day": "31",
+        "month": "March",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Thursday, 31 March 1904, 11:11 AM"
+    },
+    {
+        "day": "31",
+        "month": "September",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Invalid Date"
+    },
+    {
+        "day": "31",
+        "month": "February",
+        "year": "1904",
+        "hour": "11",
+        "minute": "11",
+        "expected": "Opened: Invalid Date"
+    }
+]
